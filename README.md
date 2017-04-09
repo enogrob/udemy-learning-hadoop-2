@@ -28,8 +28,8 @@ The Hadoop Ecosystem
 Section: 2
 0 / 2
 Installing and Configuring Hadoop
-[~] 7. Downloading and Installing Hadoop 2:59
-[ ] 8. Exploring Hue 5:24
+[x] 7. Downloading and Installing Hadoop 2:59
+[x] 8. Exploring Hue 5:24
 
 Section: 3
 0 / 3

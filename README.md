@@ -18,17 +18,17 @@ Learn everything you need to about the subject of this `Udemy` project.
 Section: 1
 0 / 6
 The Hadoop Ecosystem
-[ ] 1. The Course Overview 1:51
-[ ] 2. Overview of HDFS and YARN 7:24
-[ ] 3. Overview of Sqoop and Flume 3:17
-[ ] 4. Overview of MapReduce 3:38
-[ ] 5. Overview of Pig 3:04
-[ ] 6. Overview of Hive 6:33
+[x] 1. The Course Overview 1:51
+[x] 2. Overview of HDFS and YARN 7:24
+[x] 3. Overview of Sqoop and Flume 3:17
+[x] 4. Overview of MapReduce 3:38
+[x] 5. Overview of Pig 3:04
+[x] 6. Overview of Hive 6:33
 
 Section: 2
 0 / 2
 Installing and Configuring Hadoop
-[ ] 7. Downloading and Installing Hadoop 2:59
+[~] 7. Downloading and Installing Hadoop 2:59
 [ ] 8. Exploring Hue 5:24
 
 Section: 3

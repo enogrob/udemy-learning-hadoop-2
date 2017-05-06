@@ -35,8 +35,8 @@ Section: 3
 0 / 3
 Data Import and Export
 [x]  9. Manual Import 4:33
-[ ] 10. Importing from Databases Using Sqoop 6:27
-[ ] 11. Using Flume to Import Streaming Data 5:07
+[x] 10. Importing from Databases Using Sqoop 6:27
+[x] 11. Using Flume to Import Streaming Data 5:07
 
 Section: 4
 0 / 4

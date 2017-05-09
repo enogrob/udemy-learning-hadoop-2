@@ -41,7 +41,7 @@ Data Import and Export
 Section: 4
 0 / 4
 Using MapReduce and Pig
-[ ] 12. Coding "Word Count" in MapReduce 5:55
+[~] 12. Coding "Word Count" in MapReduce 5:55
 [ ] 13. Coding "Word Count" in Pig 2:30
 [ ] 14. Performing Common ETL Functions in Pig 8:48
 [ ] 15. Using User-defined Functions in Pig 5:58
